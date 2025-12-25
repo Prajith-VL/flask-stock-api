@@ -190,4 +190,4 @@ It can serve as:
 
 👤 Author
 Prajith VL
-GitHub: https://github.com/Prajith-VL
+GitHub: https://github.com/Prajith-VL/flask-stock-api
